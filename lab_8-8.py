@@ -5,4 +5,6 @@ rows = [["Darick", "Eugene", "Kyle", "Azaan"],
 
 for row in rows:
     for name in row:
-        print(name[0])
+        print(name)
+
+
